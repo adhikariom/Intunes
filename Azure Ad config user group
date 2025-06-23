@@ -1,0 +1,6 @@
+
+1. Create User, Enable MFA: Mobile OTP or MFA
+2. Create Bulk User
+3. Self-Service Password Reset: Active Directory Premium P2 Lic,  Go to All user- Password Reset enable Save
+4. Add Domain: go to setting add domain, sync txt and mx record done
+5. 
